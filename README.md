@@ -187,5 +187,7 @@ conn.logger.level = 'debug'
 # ambil [seesion.md.data.json]
 [![Run on Repl.it]
 https://replit.com/@zeeoneofc/Session-Md?lita=1&outputonly=1#.replit (zeency ofc)
+
+[!] My replit
 Https://replit.com/@Doramisi1/Session-Md#.replit
 (salin  link  baru tempel)
